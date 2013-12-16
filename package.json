@@ -1,6 +1,6 @@
 {
     "name": "camden.canalyzer",
-    "title": "Can They Use It",
+    "title": "Canalyzer",
     "description": "Scans project for possible compatability issues.",
     "homepage": "https://github.com/cfjedimaster/canalyzer",
     "version": "1.0.0",
