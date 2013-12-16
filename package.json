@@ -3,7 +3,7 @@
     "title": "Canalyzer",
     "description": "Scans project for possible compatability issues.",
     "homepage": "https://github.com/cfjedimaster/canalyzer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Raymond Camden <raymondcamden@gmail.com> (http://www.raymondcamden.com)",
     "license": "MIT",
     "engines": {
