@@ -1,0 +1,6 @@
+[
+	{"marker":"<datalist>",
+	 "feature":"datalist"},
+	{"marker":"navigator.geolocation",
+	 "feature":"geolocation"}
+]

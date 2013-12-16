@@ -1,0 +1,16 @@
+brackets-canalyzer
+=================
+
+This extension uses a set of 'markers' (regex patterns) to scan your project for things that can possibly cause compatability issues. For example, it will log navigator.geolocation.
+
+It associates each marker with a particular caniuse.com ID.
+
+The dictionary (markers.json) has a grand total of *2* items now so I'm looking for folks to help flesh it out!
+
+Issues/Updates
+=====
+[12/16/2013] Initial Release
+
+Credit
+=====
+Built with CanIUseIt.com technology!

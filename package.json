@@ -1,0 +1,12 @@
+{
+    "name": "camden.canalyzer",
+    "title": "Can They Use It",
+    "description": "Scans project for possible compatability issues.",
+    "homepage": "https://github.com/cfjedimaster/canalyzer",
+    "version": "1.0.0",
+    "author": "Raymond Camden <raymondcamden@gmail.com> (http://www.raymondcamden.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
